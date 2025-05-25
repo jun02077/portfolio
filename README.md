@@ -6,7 +6,7 @@ junのportfolio
 
 [junのportfolio](https://jun02077.github.io/portfolio/)<br>
 
-or
+or<br>
 
-スマホ用QRコード
-![image](https://github.com/user-attachments/assets/8db190c6-7329-415e-81a1-d73d8630acc1)
+スマホ用QRコード<br>
+![image](https://github.com/user-attachments/assets/8db190c6-7329-415e-81a1-d73d8630acc1)<br>
