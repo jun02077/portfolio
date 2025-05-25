@@ -75,3 +75,34 @@ th, td {
   border: solid 1px #f0f0f0;
   padding: 0.5rem;
 }
+
+/* --------------------
+          Canvas
+-------------------- */
+
+canvas {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  display: block;
+  pointer-events: none;
+}
+
+/* --------------------
+          Clocl
+-------------------- */
+
+#cornerClock {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  color: white;
+  font-size: clamp(16px, 2vw, 32px); /* レスポンシブ */
+  font-family: monospace;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 6px 12px;
+  border-radius: 6px;
+  z-index: 10;
+  pointer-events: none;
+}
